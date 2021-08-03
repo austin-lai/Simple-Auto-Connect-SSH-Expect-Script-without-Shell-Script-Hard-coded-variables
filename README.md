@@ -8,7 +8,7 @@
 
 Simple Auto Connect SSH Expect Script without Shell Script (Hard-coded variables)
 
-The script initial drafted in 2018, amended and published.
+The script initial drafted in 2018, amended and published today.
 
 - [Auto Connect SSH Expect Script](https://github.com/austin-lai/Simple-Auto-Connect-SSH-Expect-Script-without-Shell-Script-Hard-coded-variables/blob/master/auto-connect-ssh-expect.sh)
 
